@@ -1,0 +1,31 @@
+Gender=Class
+Favorite Color=A1
+Favorite Music Genre=A2
+Favorite Beverage=A3
+Favorite Soft Drink=A4
+Cool 0
+Warm 1
+Neutral 2
+
+
+Rock 0
+Hip hop 1
+Folk/Traditional 2
+Jazz/Blues 3
+Pop 4
+Electronic 5
+R&B and soul 6
+
+Vodka 0
+Wine 1
+Whiskey 2
+Doesn't drink 3
+Other 4
+Beer 5
+
+
+Coca Cola/Pepsi 0
+7UP/Sprite 1
+Fanta 2
+
+
