@@ -1,4 +1,4 @@
-# Data Classification using Decimal CA
+# Data Classification using CA
 
 This repository contains the code for doing data classification using Decimal CA.
 - The _classification.ipynb_ file contains the sample code for the classification of the numerical dataset.
